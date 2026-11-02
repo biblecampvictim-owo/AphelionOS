@@ -1,0 +1,1 @@
+qemu-system-x86_64 -fda build/main_floppy.img -audiodev sdl,id=snd0 -machine pcspk-audiodev=snd0
