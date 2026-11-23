@@ -19,7 +19,7 @@ Expect everything to function properly.
 How to run AphelionOS On Windows / MacOS / Other OSs:
 *****************************************************
 
-Download the ISO,
+Download the ISO (AphelionOS-Win-Mac-v1.4.iso),
 Then put the ISO image into An virtualization platform (Like Vmware or VirtualBox).
 Select "other" In the OS list (On VirtualBox) and
 give it ~5 MegaBytes of memory and ~5 MegaBytes of disk space
