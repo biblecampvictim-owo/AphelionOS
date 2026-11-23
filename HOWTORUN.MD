@@ -20,8 +20,8 @@ How to run AphelionOS On Windows / MacOS / Other OSs:
 *****************************************************
 
 Download the ISO from the latest release tag,
-Then put the ISO image into An virtualization platform (Like Vmware or Virtualbox).
-Select "other" In the OS list (On virtualbox) and
+Then put the ISO image into An virtualization platform (Like Vmware or VirtualBox).
+Select "other" In the OS list (On VirtualBox) and
 give it ~5 MegaBytes of memory and ~5 MegaBytes of disk space
 
 ********************************************
@@ -29,8 +29,8 @@ What you should expect on Windows / MacOS:
 ********************************************
 You should expect sound to (PROBABLY) not work. You (PROBABLY) need extra configuration on virtualbox for sound to work.
 Configuration that has not been properly documented yet.
-I am currently not able to find the proper cconfiguration because 
-I am on GNOME Fedora Linux 45 and Virtualbox does not have support for Fedora 45 yet. 
+I am currently not able to find the proper configuration because 
+I am on GNOME Fedora Linux 45 and VirtualBox does not have support for Fedora 45 yet. 
 For those willing to try:
 This is the QEMU sound configuration that makes it work on Linux:
 
