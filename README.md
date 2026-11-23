@@ -16,6 +16,7 @@ What AphelionOS Version 1.4 added:
 
 
 Fixes:
+-
 - Fixed cursor at weird position bug
 - Fixed some background colours not working
 
