@@ -39,5 +39,5 @@ This is the QEMU sound configuration that makes it work on Linux:
 For more information on that check out the run.sh in the source code
 
 If you find the proper sound configuration please comment it on my YouTube channel and i will credit you for the discovery If you want to be credited of course (please make that clear)
-My youtube channel is @squidy_fish (If you for whatever reason can not find it, search up "aphelionos" on youtube and try to look for an eevee profile picture) 
+My youtube channel is @Squidy_fish (If you for whatever reason can not find it, search up "aphelionos" on youtube and try to look for an eevee profile picture) 
 
